@@ -4,9 +4,9 @@ public static final int arrayWidth=50;
 public static final int arrayHeight=50;
 
   //#Variables for the specifics of the forest groth/burn conditions.
-  public static final float chanceOfRegrowth = .0001;
+  public static final float chanceOfRegrowth = .00005;
   public static final float chanceOfSpread = .02;
-  public static final float chanceOfBurning = .001;
+  public static final float chanceOfBurning = .0005;
 
 
 private Cell[][] forest;
